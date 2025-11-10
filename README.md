@@ -1,4 +1,4 @@
-# vax [![Build Status](https://travis-ci.org/cfpb/vax.svg?branch=master)](https://travis-ci.org/cfpb/vax)
+# vax
 
 Check your Node project for npm security best practices. Currently, it simply:
 
